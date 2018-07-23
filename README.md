@@ -1,4 +1,4 @@
 # magdesign.github.io
 
 
-Here I will  add alive demo of the PocketVJ CP.
+Here I will  add a live demo of the PocketVJ CP.
