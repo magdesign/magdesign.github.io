@@ -1,4 +1,5 @@
 # magdesign.github.io
 
 
-Here I will  add a live demo of the PocketVJ CP.
+To check out the development of MAGmapper, visit this page: http://mapper.jku.one
+More info about PocketVJ: https://pocketvj.com
