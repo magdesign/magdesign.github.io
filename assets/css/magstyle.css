@@ -1,0 +1,61 @@
+h3 {
+  font-family: 'Open Sans', sans-serif;
+  margin-bottom: 5px;
+}
+
+p {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.masthead {
+  padding: 0px;
+}
+
+#about {
+}
+
+.content-section {
+  padding-top: 14%;
+  padding-bottom: 14%;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #0051a5;
+}
+
+a:focus, a:hover {
+  text-decoration: none;
+  color: #0051a5;
+}
+
+.btn-default:focus, .btn-default:hover {
+  color: #000;
+  outline: none;
+  background-color: #0051a5;
+}
+
+.btn-check:checked + .btn-primary, .btn-check:active + .btn-primary, .btn-primary:active, .btn-primary.active, .show > .btn-primary.dropdown-toggle {
+  color: #000;
+  background-color: #0051a5;
+  border-color: #0051a5;
+}
+
+icons {
+}
+
+icons {
+  font-size: 50px;
+  padding: 2%;
+}
+
+.icons {
+  font-size: 50px;
+  padding: 2%;
+}
+
