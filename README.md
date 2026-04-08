@@ -1,4 +1,5 @@
 # magdesign's webiste
+see: https://magdesign.github.io
 
 the real magdesign known in the foss scene.
 
